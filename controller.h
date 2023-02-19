@@ -1,0 +1,2 @@
+
+int triple(int arg);

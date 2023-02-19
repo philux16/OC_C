@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676798868 source:c:\users\phiph\documents\telecom_paris_2a\créneaux d\inf280\openclassroom\main.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+
+1676798859 c:\users\phiph\documents\telecom_paris_2a\créneaux d\inf280\openclassroom\controller.h
+
